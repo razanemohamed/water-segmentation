@@ -19,9 +19,11 @@ training dataset.
 
 ## Dataset
 
-The original satellite dataset is intentionally not included. It is large and
-may have redistribution restrictions. Obtain it from the original source and
-place it at:
+The original satellite dataset was provided privately during the internship
+and is intentionally not included in this public repository. There is no
+public download link documented here. If you are authorized to reproduce the
+experiments, obtain the data from the internship instructor or the original
+private course materials and place it at:
 
 ```text
 data/data/images/
