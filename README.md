@@ -8,6 +8,14 @@ U-Net pipeline, plus a ResNet34 U-Net deployment experiment.
 - `notebooks/Water_Segmentation_Enhanced.ipynb` - training, evaluation, and visualization
 - `deploy/` - Flask inference application
 - `models/` - selected trained checkpoints and normalization statistics
+- `demo/` - small generated prediction-output examples
+
+## Demonstration
+
+The images in [`demo/`](./demo/) are generated prediction outputs from the
+deployment experiment, not redistributed source-dataset images. They provide
+a compact visual example of the segmentation result without republishing the
+training dataset.
 
 ## Dataset
 
